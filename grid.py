@@ -451,7 +451,7 @@ class GridView(QGraphicsView):
         self.clear_polygon()
 
         # Параметри
-        num_vertices = 10_000
+        num_vertices = 1_000
         grid_size = self.get_adaptive_grid_size()
         start_x = round(random.uniform(-1000, 1000) / grid_size) * grid_size
         start_y = round(random.uniform(-1000, 1000) / grid_size) * grid_size
