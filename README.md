@@ -2,6 +2,41 @@
 
 This project provides an interactive GUI for creating and **decomposing isothetic polygons** — polygons with all edges parallel to the coordinate axes. Once a polygon is completed, it is automatically **decomposed into non-overlapping rectangles**.
 
+<p align="center">
+  <img src="/docs/assets/app.png" alt="App" width="800"/><br>
+  <em>App Overview</em>
+</p>
+
+<p align="center">
+  <img src="/docs/assets/orig1.png" alt="Isothetic Polygon 1" width="500"/><br>
+  <em>Isothetic Polygon 1 (Randomly generated with 100 points)</em>
+</p>
+
+<p align="center">
+  <img src="/docs/assets/dec1.png" alt="Isothetic Polygon Decomposed 1" width="500"/><br>
+  <em>Isothetic Polygon Decomposed 1</em>
+</p>
+
+<p align="center">
+  <img src="/docs/assets/orig2.png" alt="Isothetic Polygon 2 with hole" width="500"/><br>
+  <em>Isothetic Polygon 2 (With hole)</em>
+</p>
+
+<p align="center">
+  <img src="/docs/assets/dec2.png" alt="Isothetic Polygon Decomposed 2" width="500"/><br>
+  <em>Isothetic Polygon Decomposed 2</em>
+</p>
+
+<p align="center">
+  <img src="/docs/assets/orig3.png" alt="Isothetic Polygon 3 with hole and island" width="500"/><br>
+  <em>Isothetic Polygon 3 (With hole and island)</em>
+</p>
+
+<p align="center">
+  <img src="/docs/assets/dec3.png" alt="Isothetic Polygon Decomposed 3" width="500"/><br>
+  <em>Isothetic Polygon Decomposed 3</em>
+</p>
+
 ## ✨ Features
 
 - **Grid-Aligned Drawing**: Add vertices constrained to axis-aligned directions (isothetic constraint).
