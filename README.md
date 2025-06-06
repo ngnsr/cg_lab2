@@ -3,7 +3,7 @@
 This project provides an interactive GUI for creating and **decomposing isothetic polygons** — polygons with all edges parallel to the coordinate axes. Once a polygon is completed, it is automatically **decomposed into non-overlapping rectangles**.
 
 <p align="center">
-  <img src="/docs/assets/app.png" alt="App" width="500"/><br>
+  <img src="/docs/assets/app.png" alt="App" width="800"/><br>
   <em>App Overview</em>
 </p>
 
